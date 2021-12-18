@@ -1,5 +1,5 @@
 module.exports = {
     images: {
-        domains: ["avatar.dicebear.com", "links.papareact.com"],
+        domains: ["avatars.dicebear.com", "links.papareact.com"],
     },
 };
